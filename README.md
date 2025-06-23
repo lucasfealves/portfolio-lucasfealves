@@ -40,7 +40,7 @@ Sistema CRM com arquitetura full-stack.
 ## Contato
 
 📫 **Email:** lucas.fe.alves@outlook.com  
-💼 **LinkedIn:** []()
+💼 **LinkedIn:** [x](x)
 💻 **GitHub:** [github.com/lucasfealves](https://github.com/lucasfealves)
 
 ---
